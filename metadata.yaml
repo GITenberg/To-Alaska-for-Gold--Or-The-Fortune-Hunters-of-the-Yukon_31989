@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: Novel about the adventures of two Maine boys who seek their fortunes
   in the Klondike. Suitable grades 7 and up.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31989#To-Alaska-for-Gold--Or-The-Fortune-Hunters-of-the-Yukon
 gutenberg_issued: '2010-04-14'
 gutenberg_type: Text
 identifiers:
